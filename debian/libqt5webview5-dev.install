@@ -1,0 +1,13 @@
+usr/include/${DEB_HOST_MULTIARCH}/qt5/QtWebView/QtWebView
+usr/include/${DEB_HOST_MULTIARCH}/qt5/QtWebView/QtWebViewDepends
+usr/include/${DEB_HOST_MULTIARCH}/qt5/QtWebView/QtWebViewVersion
+usr/include/${DEB_HOST_MULTIARCH}/qt5/QtWebView/qtwebviewfunctions.h
+usr/include/${DEB_HOST_MULTIARCH}/qt5/QtWebView/qtwebviewversion.h
+usr/include/${DEB_HOST_MULTIARCH}/qt5/QtWebView/qwebview_global.h
+usr/lib/${DEB_HOST_MULTIARCH}/cmake/Qt5WebView/Qt5WebViewConfig.cmake
+usr/lib/${DEB_HOST_MULTIARCH}/cmake/Qt5WebView/Qt5WebViewConfigVersion.cmake
+usr/lib/${DEB_HOST_MULTIARCH}/cmake/Qt5WebView/Qt5WebView_QWebEngineWebViewPlugin.cmake
+usr/lib/${DEB_HOST_MULTIARCH}/libQt5WebView.prl
+usr/lib/${DEB_HOST_MULTIARCH}/libQt5WebView.so
+usr/lib/${DEB_HOST_MULTIARCH}/pkgconfig/Qt5WebView.pc
+usr/lib/${DEB_HOST_MULTIARCH}/qt5/mkspecs/modules/qt_lib_webview.pri

@@ -1,0 +1,6 @@
+doc/
+qml/QtWebView/plugins.qmltypes
+qml/QtWebView/qmldir
+src/imports/qmldir
+src/webview/codeattributions.qdoc
+src/webview/QtWebView.version.in

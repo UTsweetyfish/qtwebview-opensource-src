@@ -1,0 +1,3 @@
+usr/include/${DEB_HOST_MULTIARCH}/qt5/QtWebView/5.*
+usr/lib/${DEB_HOST_MULTIARCH}/libQt5WebView.la
+usr/lib/${DEB_HOST_MULTIARCH}/qt5/mkspecs/modules/qt_lib_webview_private.pri
